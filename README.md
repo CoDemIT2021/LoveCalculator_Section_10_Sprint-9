@@ -4,3 +4,5 @@ LOVE calculator with JS (Angela Yu) Section - 10, Sprint - 9
 Azamat Zhamankulov
 Aizhamal Dzhambulatova
 Umar Avtandilov
+Myrzaiym Askarova
+Tazagul Berikbaeva
